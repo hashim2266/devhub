@@ -87,16 +87,16 @@
     "electron-updater": "4.3.5",
     "jsonfile": "6.1.0",
     "mkdirp": "1.0.4",
-    "semver": "7.3.4"
+    "semver": "7.8.1"
   },
   "devDependencies": {
     "@types/electron-devtools-installer": "2.2.0",
     "@types/electron-store": "3.2.0",
     "@types/jsonfile": "6.0.0",
     "@types/mkdirp": "1.0.1",
-    "@types/semver": "7.3.4",
+    "@types/semver": "7.7.1",
     "dotenv": "8.2.0",
-    "electron": "11.0.3",
+    "electron": "39.8.5",
     "electron-builder": "22.9.1",
     "electron-devtools-installer": "3.1.1",
     "electron-notarize": "1.0.0",
